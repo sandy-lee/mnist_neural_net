@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Code
+.vscode/
+mnist_neural_net_.code-workspace
+
+

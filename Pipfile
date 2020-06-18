@@ -10,6 +10,8 @@ tensorflow2 = "*"
 tensorflow = "*"
 ipykernal = "*"
 jupyter = "*"
+pylint = "*"
+kite = "*"
 
 [requires]
 python_version = "3.8"

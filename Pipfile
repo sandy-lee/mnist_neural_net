@@ -17,6 +17,7 @@ pydotprint = "*"
 graphviz = "*"
 pandas = "*"
 matplotlib = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"

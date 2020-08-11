@@ -1,23 +1,18 @@
 [[source]]
-name = "pypi"
-url = "https://pypi.org/simple"
+url = "https://pypi.python.org/simple"
 verify_ssl = true
-
-[dev-packages]
+name = "pypi"
 
 [packages]
-tensorflow2 = "*"
-tensorflow = "*"
-ipykernal = "*"
 jupyter = "*"
-pylint = "*"
-kite = "*"
-pydot = "*"
-pydotprint = "*"
-graphviz = "*"
-pandas = "*"
-matplotlib = "*"
+keras = "*"
+tensorflow = "*"
 sklearn = "*"
+pandas = "*"
+pylint = "*"
+matplotlib = "*"
+
+[dev-packages]
 
 [requires]
 python_version = "3.8"
